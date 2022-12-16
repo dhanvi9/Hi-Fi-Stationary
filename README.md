@@ -13,16 +13,16 @@ to determine customers satisfaction with their services.
 2. The view on google map feature allows the customer to get directions to the shop easily.
 3. Alerts are generated on the home page regularly about any upcoming and ongoing sales on their products.
 
-# 2. Technologies Used </br>
+# 3. Technologies Used </br>
 * HTML 
 * CSS 
 * Javascript
 
-# 3. Live Link
+# 4. Live Link
 ### Link: </br>
 https://dhanvi9.github.io/Hi-Fi-Stationary/index.html 
 
-# 4. Screenshots of Different Website Pages
+# 5. Screenshots of Different Website Pages
 
 ### Navigation Bar: <p>&nbsp;</p>
 ![image](https://user-images.githubusercontent.com/66992402/207675644-58ce641b-b460-48e9-85f1-b67744d55a5f.png)
