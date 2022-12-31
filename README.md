@@ -16,7 +16,7 @@ to determine customers satisfaction with their services.
 # 3. Technologies Used </br>
 * HTML 
 * CSS 
-* Javascript
+
 
 # 4. Live Link
 ### Link: </br>
